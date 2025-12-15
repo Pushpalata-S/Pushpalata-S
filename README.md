@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 exploring coding and web development ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨...<br>📚 exploring coding and web development ...<br>🎯 Turning ideas into full-stack MERN applications.<br>🎲 ....</p>
 
 ###
 
@@ -35,10 +35,6 @@
 </div>
 
 ###
-
-
-
-## Hi there 👋
 
 <!--
 **Pushpalata-S/Pushpalata-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
