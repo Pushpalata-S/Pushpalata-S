@@ -1,14 +1,14 @@
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Pushpalata and I'm a Software-enthusiast student., from Motilal Nehru National Institute Of Technology</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Student | Coding | Web Development | Always learning 🚀</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 exploring coding and web development ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
